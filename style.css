@@ -269,7 +269,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 80px 150px;
+    padding: 40px 150px;
 }
 
 #quote {
@@ -305,7 +305,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 80px 150px;
+    padding: 50px 150px;
 }
 
 .ad{
